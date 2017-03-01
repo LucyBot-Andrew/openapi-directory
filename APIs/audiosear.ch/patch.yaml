@@ -1,4 +1,6 @@
 info:
+  x-logo:
+    url: 'https://scontent.fbed1-1.fna.fbcdn.net/v/t1.0-1/c0.0.200.200/p200x200/12027752_1049737528383928_8300483579219730079_n.png?oh=655ce862e1a9121a22d61fde351f106a&oe=592BF8F1'
   x-apiClientRegistration:
     url: 'https://www.audiosear.ch/oauth/applications/new'
   x-apisguru-categories:
